@@ -1,0 +1,17 @@
+.softside {
+    background-color: #F2DEBA;
+    box-shadow: 10px;
+}
+
+.crocs_5 {
+    width: 600px;
+    right: 100px;
+    bottom: 100px;
+    left: 150px;
+
+}
+.crocs_15 {
+    right:700px;
+    width: 600px;
+    left: 150px;
+}

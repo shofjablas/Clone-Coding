@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 17" role="img" focusable="false" aria-label="close" aria-hidden="true">
+	<style>
+		line {
+			stroke-linecap: round;
+		}
+		.outline {
+			stroke: #fff;
+			stroke-width: 3;
+		}
+		.fill {
+			stroke: #000;
+			stroke-width: 2;
+		}
+	</style>
+	<symbol id="x" viewBox="0 0 17 17">
+		<line x1="1.5" y1="1.5" x2="15.5" y2="15.5"/>
+		<line x1="15.5" y1="1.5" x2="1.5" y2="15.5"/>
+	</symbol>
+	<use href="#x" class="outline"/>
+	<use href="#x" class="fill"/>
+</svg>
